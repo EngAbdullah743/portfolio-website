@@ -2,7 +2,7 @@
 
 *Showcase Your Brilliance, Inspire Connections Instantly*
 
-![last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO?style=flat-square)
+![last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/today?style=flat-square)
 ![css](https://img.shields.io/github/languages/top/YOUR_USERNAME/YOUR_REPO?color=blue&style=flat-square)
 ![languages](https://img.shields.io/github/languages/count/YOUR_USERNAME/YOUR_REPO?style=flat-square)
 
